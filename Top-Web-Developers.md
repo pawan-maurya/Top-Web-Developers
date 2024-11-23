@@ -36,67 +36,60 @@ Here’s a list of influential figures in web development along with their Linke
 ### **Open Source Leaders**
 7. **Linus Benedict Torvalds**
    - Title: Creator of Linux and Git
-   - LinkedIn: (Unavailable)
-   - GitHub: [Linus Torvalds on GitHub](https://github.com/torvalds)
+   - GitHub: [Linus Torvalds](https://github.com/torvalds)
 
 8. **Chris Coyier**
    - Title: Founder of CSS-Tricks and CodePen
-   - LinkedIn: [Chris Coyier LinkedIn](https://www.linkedin.com/in/chriscoyier/)
+   - Github: [Chris Coyier](https://github.com/chriscoyier)
 
 9. **Lea Verou**
    - Title: CSS Expert and Developer Advocate
-   - LinkedIn: [Lea Verou LinkedIn](https://www.linkedin.com/in/leaverou/)
+   - LinkedIn: [Lea Verou](https://www.linkedin.com/in/leaverou/)
 
 ---
 
 ### **Company and Tool Creators**
 10. **Matt Mullenweg**
     - Title: Co-founder of WordPress, CEO of Automattic
-    - LinkedIn: [Matt Mullenweg LinkedIn](https://www.linkedin.com/in/mullenweg/)
+    - LinkedIn: [Matt Mullenweg](https://www.linkedin.com/in/mattm/)
 
 11. **Mitchell Baker**
     - Title: Chairwoman of Mozilla
-    - LinkedIn: [Mitchell Baker LinkedIn](https://www.linkedin.com/in/mitchellbaker/)
+    - X (twitter): [Mitchell Baker](https://twitter.com/MitchellBaker)
 
 12. **DHH (David Heinemeier Hansson)**
     - Title: Creator of Ruby on Rails
-    - LinkedIn: [David Heinemeier Hansson LinkedIn](https://www.linkedin.com/in/david-heinemeier-hansson-98b57b1/)
+    - LinkedIn: [David Heinemeier Hansson](https://www.linkedin.com/in/david-heinemeier-hansson-374b18221/)
 
 ---
 
 ### **Educational Contributors**
 13. **Brad Traversy**
     - Title: Educator and Founder of Traversy Media
-    - LinkedIn: [Brad Traversy LinkedIn](https://www.linkedin.com/in/bradtraversy/)
+    - LinkedIn: [Brad Traversy](https://www.linkedin.com/in/bradtraversy/)
 
 14. **Wes Bos**
     - Title: Educator and Developer, Creator of JavaScript30
-    - LinkedIn: [Wes Bos LinkedIn](https://www.linkedin.com/in/wesbos/)
+    - LinkedIn: [Wes Bos](https://www.linkedin.com/in/wesbos)
 
 15. **Quincy Larson**
     - Title: Founder of freeCodeCamp
-    - LinkedIn: [Quincy Larson LinkedIn](https://www.linkedin.com/in/quincylarson/)
+    - LinkedIn: [Quincy Larson](https://www.linkedin.com/in/quincylarson/)
 
 ---
 
 ### **Frontend Experts**
 16. **Sarah Drasner**
     - Title: VP of Developer Experience at Netlify, SVG Animation Expert
-    - LinkedIn: [Sarah Drasner LinkedIn](https://www.linkedin.com/in/sarah-drasner/)
+    - LinkedIn: [Sarah Drasner](https://www.linkedin.com/in/sarahdrasner/)
 
-17. **Dan Abramov**
-    - Title: Creator of Redux, Core React Developer
-    - LinkedIn: [Dan Abramov LinkedIn](https://www.linkedin.com/in/dan-abramov-23a07476/)
+17. **Mark Otto**
+    - Title: Creator of Bootstrap
+    - Github: [Dan Abramov](https://github.com/mdo)
 
 18. **Vitaly Friedman**
     - Title: Editor-in-Chief of Smashing Magazine
-    - LinkedIn: [Vitaly Friedman LinkedIn](https://www.linkedin.com/in/vitalyfriedman/)
+    - LinkedIn: [Vitaly Friedman](https://www.linkedin.com/in/vitalyfriedman)
 
 ---
 
-### **How to Find More Profiles**
-For broader exploration:
-- Use **LinkedIn’s search feature** to find top web developers and influencers.
-- Explore contributors to frameworks on **GitHub** to find active developers.
-
-Would you like to dive deeper into a particular individual or explore other notable developers?
